@@ -2,7 +2,7 @@
 
 Rasterize MetOp A/B/C GOME-2 data into GeoTiff images.
 
-![NO2 - 2022-01-05](NO2 - 2022-01-05.png)
+![Nitrogen dioxide GAS on 01/05/2022](https://raw.githubusercontent.com/riccardoratta/gome2-to-image/main/NO2%20-%202022-01-05.png)
 
 The [Global Ozone Monitoring Experiment-2 (GOME-2)](https://www.eumetsat.int/gome-2) is an instrument aboard the [MetOp](https://www.eumetsat.int/our-satellites/metop-series) series of satellites. The MetOp satellites are a group of polar-orbiting meteorological satellites launched and operated by the European Organisation for the Exploitation of Meteorological Satellites (EUMETSAT).
 
