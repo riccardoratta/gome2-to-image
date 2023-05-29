@@ -1,4 +1,4 @@
-## GOME-2 to Image
+# GOME-2 to Image
 
 Rasterize MetOp A/B/C GOME-2 data into GeoTiff images.
 
@@ -6,11 +6,11 @@ Rasterize MetOp A/B/C GOME-2 data into GeoTiff images.
 
 The [Global Ozone Monitoring Experiment-2 (GOME-2)](https://www.eumetsat.int/gome-2) is an instrument aboard the [MetOp](https://www.eumetsat.int/our-satellites/metop-series) series of satellites. The MetOp satellites are a group of polar-orbiting meteorological satellites launched and operated by the European Organisation for the Exploitation of Meteorological Satellites (EUMETSAT).
 
-### Requirements
+## Requirements
 
 All requirements are listed in the `requirements.txt`.
 
-### Usage
+## Usage
 
 To generate a GeoTiff image from a netCDF4 file, use:
 
@@ -48,6 +48,6 @@ The scripts works for the following products:
 
 It is possible to explore GOME-2 data using the [ATMOS web application](https://atmos.eoc.dlr.de/app/calendar).
 
-### Disclamer
+## Disclamer
 
 The script has not been tested strictly for every possible product. We recommend to always check the output for correctness. I do not take responsibility for erroneous values. Feel free to open an issue if something is wrong.
