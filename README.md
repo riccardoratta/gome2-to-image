@@ -26,7 +26,7 @@ To generate an image from a list of netCDF4 files, such as creating a filled glo
 python gome2-to-image.py data/20220105 -p NO2 --scale 15
 ```
 
-When combining multiple stripes, if there are overlapping pixel the average is used.
+When combining multiple stripes, if there are overlapping pixels the average is used.
 
 ### Error values
 
