@@ -30,7 +30,7 @@ When combining multiple stripes, if there are overlapping pixels the average is 
 
 ### Error values
 
-Note, every value that is negative or where the error percentage is greater than `error-threshold` is removed from the final GeoTiff (fill value is -1). See all available options using the `-h` argument.
+Please note that any value that is negative or has an error percentage greater than the `error-threshol` will be removed from the final GeoTiff (with a fill value of -1).
 
 ### Available products
 
